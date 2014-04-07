@@ -1,0 +1,1 @@
+Calculator, supports arabic (partially)
